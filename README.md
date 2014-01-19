@@ -1,3 +1,5 @@
+> _NOT YET FUNCTIONAL_
+
 grunt-titanium-init
 ===================
 

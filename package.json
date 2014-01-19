@@ -2,7 +2,6 @@
   "name": "titanium-init",
   "description": "Template for writing npm distributable Titanium code",
   "version": "0.0.1",
-  "homepage": "https://github.com/tonylukasavage/titanium-init",
   "author": {
     "name": "Tony Lukasavage",
     "email": "anthony.lukasavage@gmail.com",
